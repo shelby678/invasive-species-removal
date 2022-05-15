@@ -1,7 +1,7 @@
 # Invasive Species Removal Simulation
 ## 1. Overview
 A simulation with analysis of various removal strategies of invasise plant species from a vulnerable area of land. 
-More information about the simulation (and results) may be found in [the paper](Optimizing_Invasive_Plant_Removal_Efforts.pdf)
+Details about the goals of the simulation (and experimental results) may be found in [the paper](Optimizing_Invasive_Plant_Removal_Efforts.pdf)
  I wrote about this project.
 
 ## 2. Usage
