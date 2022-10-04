@@ -8,8 +8,7 @@ Details about the goals of the simulation (and experimental results) may be foun
 The simulation side of this project was done in NetLogo 6.2.2, with experiments done in BehaviorSpace, 
 a NetLogo tool. The analysis was done in Python with Jupyter Notebook, numpy, and matplotlib. 
 
-This experiment is quite rough and bears only theoretical similarity to what an invasive plant removal effort may look like in the real world. 
-With extreme fine tuning it may be possible to create a more realistic simulation. 
+This simulation bears theoretical similarty to an invasive plant removal effort. It may be possible to get realistic results with some fine tuning.
 
 ## 3. Inspiration
 This project was inspired by the succesfful 2015 red 
